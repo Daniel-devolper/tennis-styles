@@ -450,32 +450,32 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
-.bg-\[\#F1F1F1\]{
+.bg-tennis-gray{
   --tw-bg-opacity: 1;
   background-color: rgb(241 241 241 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#B79955\]{
+.bg-tennis-beige{
   --tw-bg-opacity: 1;
   background-color: rgb(183 153 85 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#191919\]{
+.bg-tennis-black{
   --tw-bg-opacity: 1;
   background-color: rgb(25 25 25 / var(--tw-bg-opacity));
 }
 
-.text-\[\#b79955\]{
+.text-tennis-beige{
   --tw-text-opacity: 1;
   color: rgb(183 153 85 / var(--tw-text-opacity));
 }
 
-.text-\[\#191919\]{
+.text-tennis-black{
   --tw-text-opacity: 1;
   color: rgb(25 25 25 / var(--tw-text-opacity));
 }
 
-.drop-shadow-\[6px_6px_15px_10px_\#e5e5e5\]{
-  --tw-drop-shadow: drop-shadow(6px 6px 15px 10px #e5e5e5);
+.drop-shadow-tennisToggle{
+  --tw-drop-shadow: drop-shadow(6px 6px 15px 10px rgb(229,229,229));
   filter: var(--tw-filter);
 }
